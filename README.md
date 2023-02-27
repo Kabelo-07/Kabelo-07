@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kabelo Mashishi</h1>
 <h3 align="center">A passionate Java Software Engineer from South Africa</h3>
 
-- 🌱 I’m currently learning **ReactJS, ReactNative**
+- 🌱 I’m currently learning **ReactJS, ReactNative, TypeScript, Gitlab CI/CD**
 
 - 💬 Ask me about **Java, Spring Framework, JEE, Micro-services, DDD**
 
