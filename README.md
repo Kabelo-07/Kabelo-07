@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ReactJS, ReactNative, TypeScript, Gitlab CI/CD**
 
-- 💬 Ask me about **Java, Spring Framework, JEE, Micro-services, DDD**
+- 💬 Ask me about **Java, Spring Framework, JEE, Micro-services, DDD, Terraform, CI/CD, Docker, K8s**
 
 - 📫 How to reach me **kabelo.mashishi@icloud.com**
 
