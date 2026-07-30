@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kabelo Mashishi</h1>
 <h3 align="center">A Software Engineer.</h3>
 
-- 🌱 I’m currently learning **ReactJS, ReactNative, TypeScript, Gitlab CI/CD**
-
-- 💬 Ask me about **Java, Spring Framework, JEE, Micro-services, DDD, Terraform, CI/CD, Docker, K8s**
+- 💬 Ask me about **Java, Spring Framework, JEE, Distributed Systems, Microservices Architecture, Cloud Native, Domain Driven Design, Terraform, CI/CD, Docker, K8s**
 
 - 📫 How to reach me **kabelo.mashishi@icloud.com**
 
